@@ -1,0 +1,60 @@
+Date : 2020-06-17 22:38:00
+Directory : c:\Users\hyr_h\Desktop\wimsvue\wimsv
+Total : 26 files,  13727 codes, 105 comments, 188 blanks, all 14020 lines
+
+Languages
++------------+------------+------------+------------+------------+------------+
+| language   | files      | code       | comment    | blank      | total      |
++------------+------------+------------+------------+------------+------------+
+| JSON       |          2 |     12,326 |          0 |          2 |     12,328 |
+| Vue        |          8 |        789 |         27 |         83 |        899 |
+| JavaScript |         13 |        579 |         77 |         92 |        748 |
+| Markdown   |          1 |         14 |          0 |          8 |         22 |
+| HTML       |          1 |         11 |          1 |          1 |         13 |
+| Properties |          1 |          8 |          0 |          2 |         10 |
++------------+------------+------------+------------+------------+------------+
+
+Directories
++-----------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| path                                                                  | files      | code       | comment    | blank      | total      |
++-----------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| .                                                                     |         26 |     13,727 |        105 |        188 |     14,020 |
+| build                                                                 |          7 |        451 |         40 |         56 |        547 |
+| config                                                                |          3 |         39 |         25 |         19 |         83 |
+| src                                                                   |         10 |        871 |         37 |         98 |      1,006 |
+| src\components                                                        |          7 |        775 |         27 |         80 |        882 |
+| src\router                                                            |          1 |         24 |          0 |          5 |         29 |
++-----------------------------------------------------------------------+------------+------------+------------+------------+------------+
+
+Files
++-----------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| filename                                                              | language   | code       | comment    | blank      | total      |
++-----------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| c:\Users\hyr_h\Desktop\wimsvue\wimsv\.editorconfig                    | Properties |          8 |          0 |          2 |         10 |
+| c:\Users\hyr_h\Desktop\wimsvue\wimsv\.postcssrc.js                    | JavaScript |          7 |          2 |          2 |         11 |
+| c:\Users\hyr_h\Desktop\wimsvue\wimsv\README.md                        | Markdown   |         14 |          0 |          8 |         22 |
+| c:\Users\hyr_h\Desktop\wimsvue\wimsv\build\build.js                   | JavaScript |         35 |          0 |          7 |         42 |
+| c:\Users\hyr_h\Desktop\wimsvue\wimsv\build\check-versions.js          | JavaScript |         45 |          0 |         10 |         55 |
+| c:\Users\hyr_h\Desktop\wimsvue\wimsv\build\utils.js                   | JavaScript |         80 |          5 |         17 |        102 |
+| c:\Users\hyr_h\Desktop\wimsvue\wimsv\build\vue-loader.conf.js         | JavaScript |         21 |          0 |          2 |         23 |
+| c:\Users\hyr_h\Desktop\wimsvue\wimsv\build\webpack.base.conf.js       | JavaScript |         74 |          4 |          5 |         83 |
+| c:\Users\hyr_h\Desktop\wimsvue\wimsv\build\webpack.dev.conf.js        | JavaScript |         82 |          7 |          7 |         96 |
+| c:\Users\hyr_h\Desktop\wimsvue\wimsv\build\webpack.prod.conf.js       | JavaScript |        114 |         24 |          8 |        146 |
+| c:\Users\hyr_h\Desktop\wimsvue\wimsv\config\dev.env.js                | JavaScript |          6 |          0 |          2 |          8 |
+| c:\Users\hyr_h\Desktop\wimsvue\wimsv\config\index.js                  | JavaScript |         29 |         25 |         16 |         70 |
+| c:\Users\hyr_h\Desktop\wimsvue\wimsv\config\prod.env.js               | JavaScript |          4 |          0 |          1 |          5 |
+| c:\Users\hyr_h\Desktop\wimsvue\wimsv\index.html                       | HTML       |         11 |          1 |          1 |         13 |
+| c:\Users\hyr_h\Desktop\wimsvue\wimsv\package-lock.json                | JSON       |     12,254 |          0 |          1 |     12,255 |
+| c:\Users\hyr_h\Desktop\wimsvue\wimsv\package.json                     | JSON       |         72 |          0 |          1 |         73 |
+| c:\Users\hyr_h\Desktop\wimsvue\wimsv\src\App.vue                      | Vue        |         14 |          0 |          3 |         17 |
+| c:\Users\hyr_h\Desktop\wimsvue\wimsv\src\components\Home.vue          | Vue        |        121 |          2 |         18 |        141 |
+| c:\Users\hyr_h\Desktop\wimsvue\wimsv\src\components\Login.vue         | Vue        |        105 |         11 |          7 |        123 |
+| c:\Users\hyr_h\Desktop\wimsvue\wimsv\src\components\Top.vue           | Vue        |         99 |          2 |         19 |        120 |
+| c:\Users\hyr_h\Desktop\wimsvue\wimsv\src\components\UserManage.vue    | Vue        |        204 |          5 |         11 |        220 |
+| c:\Users\hyr_h\Desktop\wimsvue\wimsv\src\components\UserType.vue      | Vue        |         10 |          0 |          4 |         14 |
+| c:\Users\hyr_h\Desktop\wimsvue\wimsv\src\components\WeatherPush.vue   | Vue        |         98 |          1 |         13 |        112 |
+| c:\Users\hyr_h\Desktop\wimsvue\wimsv\src\components\WeatherSearch.vue | Vue        |        138 |          6 |          8 |        152 |
+| c:\Users\hyr_h\Desktop\wimsvue\wimsv\src\main.js                      | JavaScript |         58 |         10 |         10 |         78 |
+| c:\Users\hyr_h\Desktop\wimsvue\wimsv\src\router\index.js              | JavaScript |         24 |          0 |          5 |         29 |
+| Total                                                                 |            |     13,727 |        105 |        188 |     14,020 |
++-----------------------------------------------------------------------+------------+------------+------------+------------+------------+
