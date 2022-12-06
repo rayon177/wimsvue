@@ -14,7 +14,7 @@
     "element-ui": "^2.13.2",
     "highcharts": "^8.1.1",
     "or": "^0.2.0",
-    "qs": "^6.9.4",
+    "qs": "^6.9.7",
     "vue": "^2.5.2",
     "vue-cookies": "^1.7.0",
     "vue-highcharts": "^0.1.0",
